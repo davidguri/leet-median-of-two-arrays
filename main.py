@@ -1,1 +1,4 @@
-print("Hello World")
+# input two arrays (orderded)
+# merge arrays
+# get median
+
