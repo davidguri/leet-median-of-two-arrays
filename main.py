@@ -14,7 +14,6 @@ if (length_of_merge % 2) == 0:
     print("Median of two arrays: " + str(median))
 else:
     mid_array = int(length_of_merge / 2)
-    print(mid_array)
     median = merged_array[mid_array]
     print("Median of two arrays: " + str(merged_array[mid_array]))
 
